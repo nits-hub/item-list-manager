@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/item-list-manager/static/css/main.5e73fe82.css",
+    "main.js": "/item-list-manager/static/js/main.2fac50eb.js",
+    "static/js/488.cf127195.chunk.js": "/item-list-manager/static/js/488.cf127195.chunk.js",
+    "index.html": "/item-list-manager/index.html",
+    "main.5e73fe82.css.map": "/item-list-manager/static/css/main.5e73fe82.css.map",
+    "main.2fac50eb.js.map": "/item-list-manager/static/js/main.2fac50eb.js.map",
+    "488.cf127195.chunk.js.map": "/item-list-manager/static/js/488.cf127195.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e73fe82.css",
+    "static/js/main.2fac50eb.js"
+  ]
+}
